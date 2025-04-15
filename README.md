@@ -22,7 +22,7 @@ Edita el script antes de usarlo y cambia estas rutas según tu sistema:
 ```bash
 #!/bin/bash
 
-#Vatiables:
+#Variables:
 dnas="/ruta_carpeta_nas"
 dcopias="/ruta_disco_copias"
 
